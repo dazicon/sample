@@ -2,6 +2,9 @@
 
 namespace App\Models;
 
+//use Illuminate\Notifications\Notifiable;
+//use Illuminate\Foundation\Auth\User as Authenticatable;
+
 use Illuminate\Auth\Authenticatable;
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Auth\Passwords\CanResetPassword;
